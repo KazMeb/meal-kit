@@ -1,1 +1,1 @@
-System.out.println("Lee Sheung Jae");
+System.out.println("Lee");
